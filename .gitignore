@@ -2,3 +2,6 @@ genres.zip
 genres
 temp_plots
 dataset.csv
+spectrogram_dataset
+chromagram_dataset
+mfcc_dataset
